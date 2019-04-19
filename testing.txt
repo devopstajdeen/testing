@@ -11,3 +11,8 @@ Commands executed
 3. Status
 4. Branch
 5. Push
+6. git branch f11
+7. git checkout f11
+8.   git push --set-upstream origin f11
+9. git branch f22
+10. 
