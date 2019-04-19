@@ -8,3 +8,4 @@ git add .
 Commands executed
 1. Init
 2. Add
+3. Status
