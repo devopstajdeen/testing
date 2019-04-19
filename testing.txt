@@ -17,5 +17,6 @@ Commands executed
 9. git branch f22
 10. git merge f11 f22
 11. git push --set-upstream origin f33
+12. git rebase f22 f33
 
 
