@@ -16,4 +16,6 @@ Commands executed
 8.   git push --set-upstream origin f11
 9. git branch f22
 10. git merge f11 f22
+11. git push --set-upstream origin f33
+
 
