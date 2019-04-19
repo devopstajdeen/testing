@@ -10,3 +10,4 @@ Commands executed
 2. Add
 3. Status
 4. Branch
+5. Push
