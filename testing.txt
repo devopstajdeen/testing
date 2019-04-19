@@ -1,3 +1,7 @@
 hi there
 
+<<<<<<< HEAD
 git push
+=======
+git add .
+>>>>>>> 5474aeb357d6c61807a8216d6a02217207d67932
